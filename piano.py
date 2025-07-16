@@ -100,6 +100,3 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-# cd "C:\Users\Purva PS\OneDrive\Desktop\full python\python cp\py"
-# py -3.10 -m venv airpiano-env
-# airpiano-env\Scripts\activate
